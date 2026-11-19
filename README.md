@@ -1,16 +1,23 @@
-## Hi there 👋
+# Javier Rivas
 
-<!--
-**javirivash/javirivash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend & Full-Stack Engineer · Remote from Mexico · Open to remote roles**
 
-Here are some ideas to get you started:
+I build scalable, accessible interfaces with React, TypeScript and Next.js. I spent four years shipping product UI at DataRobot (2021–2025), where I grew from Associate to Frontend Engineer II and led five feature projects from spec to release.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Now
+
+I design, build and run a course-booking and payments platform for [Organic Nails](https://organicnailstepic.com), a training studio in Mexico, as its sole developer:
+
+- Next.js 16, React 19, TypeScript, Supabase/Postgres with Row-Level Security, Stripe
+- 353 merged PRs and about 1,090 automated tests (Vitest unit and database integration)
+- Live in production with 89 accounts and 406 course bookings
+
+Case study on [javirivash.dev](https://javirivash.dev/#projects).
+
+### Stack
+
+React · TypeScript · Next.js (App Router, Server Actions) · Tailwind CSS · Supabase · PostgreSQL · Stripe · Vitest · Cypress · Jest · Testing Library · GitHub Actions · Vercel · Sentry
+
+### Contact
+
+[javirivash.dev](https://javirivash.dev) · [LinkedIn](https://linkedin.com/in/javirivash) · javirivas14@gmail.com
