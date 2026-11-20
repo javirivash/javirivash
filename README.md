@@ -9,8 +9,8 @@ I build scalable, accessible interfaces with React, TypeScript and Next.js. I sp
 I design, build and run a course-booking and payments platform for [Organic Nails](https://organicnailstepic.com), a training studio in Mexico, as its sole developer:
 
 - Next.js 16, React 19, TypeScript, Supabase/Postgres with Row-Level Security, Stripe
-- 380 merged PRs and about 1,090 automated tests (Vitest unit and database integration)
-- Live in production with 113 accounts and 487 course bookings
+- 375+ merged PRs and 1,000+ automated tests (Vitest unit and database integration)
+- Live in production with 110+ accounts and 475+ course bookings
 
 Case study on [javirivash.dev](https://javirivash.dev/#projects).
 
